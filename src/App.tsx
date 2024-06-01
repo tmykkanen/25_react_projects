@@ -1,8 +1,15 @@
+import Accordion from './components/accordian/index.tsx'
+import RandomColor from './components/random-color/index.tsx'
+
 const App = () => {
  return (
-  <h1 className="font-bold text-2xl">
-    Hello world!
-  </h1>
+  <div className='app'>
+    {/* Accordion Component */}
+    {/* <Accordion /> */}
+
+    {/* Random Color Component*/}
+    <RandomColor />
+  </div>
  )
 }
 
