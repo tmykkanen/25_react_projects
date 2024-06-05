@@ -4,8 +4,8 @@ https://www.youtube.com/watch?v=l3A9OcUd_Us
 
 - [x] Accordion
 - [x] Random Color Generator
-- [ ] Star Rating
-- [ ] Image Slider
+- [x] Star Rating
+- [x] Image Slider
 - [ ] Load More Button
 - [ ] Tree View / Menu UI / Recursive Nav Menu
 - [ ] QR Code Generator
