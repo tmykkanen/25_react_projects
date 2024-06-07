@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=l3A9OcUd_Us
 - [x] Random Color Generator
 - [x] Star Rating
 - [x] Image Slider
-- [ ] Load More Button
+- [x] Load More Button
 - [ ] Tree View / Menu UI / Recursive Nav Menu
 - [ ] QR Code Generator
 - [ ] Light and Dark Mode / Theme Switch / Dark Theme
