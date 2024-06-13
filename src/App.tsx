@@ -2,7 +2,8 @@
 // import Accordion from './components/accordion/index.tsx'
 // import ImageSlider from './components/image-slider/ImageSlider.tsx'
 // import LoadMore from './components/load-more/LoadMore.tsx'
-// import RandomColor from './components/random-color/index.tsx'
+import QRCodeGen from './components/qr-code-gen/QRCodeGen.tsx'
+import RandomColor from './components/random-color/index.tsx'
 // import StarRating from './components/star-rating/index.tsx'
 import TreeView from './components/tree-view/TreeView.tsx'
 import menus from './components/tree-view/data.ts' 
@@ -26,7 +27,10 @@ const App = () => {
     {/* <LoadMore /> */}
 
     {/* Tree View */}
-    <TreeView menus={menus}/>
+    {/* <TreeView menus={menus}/> */}
+
+    {/* QR Code Gen */}
+    <QRCodeGen />
 
   </div>
  )
