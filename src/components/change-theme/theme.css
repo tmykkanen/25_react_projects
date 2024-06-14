@@ -1,0 +1,16 @@
+:root {
+  --dark: #000;
+  --light: #fff;
+
+  --background: var(--light);
+  --text-primary: var(--dark);
+  --button-primary: var(--dark);
+  --button-text: var(--light);
+}
+
+[data-theme='dark'] {
+  --background: var(--dark);
+  --text-primary: var(--light);
+  --button-primary: var(--light);
+  --button-text: var(--dark);
+}

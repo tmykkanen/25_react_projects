@@ -9,7 +9,7 @@ https://www.youtube.com/watch?v=l3A9OcUd_Us
 - [x] Load More Button
 - [x] Tree View / Menu UI / Recursive Nav Menu
 - [x] QR Code Generator
-- [ ] Light and Dark Mode / Theme Switch / Dark Theme
+- [x] Light and Dark Mode / Theme Switch / Dark Theme
 - [ ] Scroll Indicator
 - [ ] Tabs
 - [ ] Modal Popup

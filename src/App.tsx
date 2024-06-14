@@ -2,6 +2,7 @@
 // import Accordion from './components/accordion/index.tsx'
 // import ImageSlider from './components/image-slider/ImageSlider.tsx'
 // import LoadMore from './components/load-more/LoadMore.tsx'
+import ChangeTheme from './components/change-theme/ChangeTheme.tsx'
 import QRCodeGen from './components/qr-code-gen/QRCodeGen.tsx'
 import RandomColor from './components/random-color/index.tsx'
 // import StarRating from './components/star-rating/index.tsx'
@@ -30,7 +31,10 @@ const App = () => {
     {/* <TreeView menus={menus}/> */}
 
     {/* QR Code Gen */}
-    <QRCodeGen />
+    {/* <QRCodeGen /> */}
+
+    {/* Change Theme */}
+    <ChangeTheme />
 
   </div>
  )
